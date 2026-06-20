@@ -20,3 +20,4 @@ A principal funcionalidade do projeto é o catálogo com filtro em tempo real. O
 
 ## Link do vídeo
 
+https://youtu.be/CYPUF8j7wiQ
