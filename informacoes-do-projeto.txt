@@ -1,0 +1,4 @@
+Nome do aluno: Rafael Vieira Gogge
+Matricula: 6922203723
+Nome do projeto: TechNova Store
+Descricao da funcionalidade: Site de loja com busca e filtro em tempo real desenvolvido em React.
